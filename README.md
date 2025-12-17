@@ -55,7 +55,7 @@ development skills using only HTML and CSS.
 
 ## Home page
 
-![Home Page](home.jpg)
+![Home Page](homee.jpg)
 
 ---
 
